@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Phoenix4745
+- 👀 I’m interested in Python, Bash, Go, C
+- 🌱 I’m currently learning ...Python
