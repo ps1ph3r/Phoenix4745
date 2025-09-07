@@ -1,1 +1,2 @@
 - 👋 Hi, I’m @z3taman
+- Python, Cpp, Rust, TS/JS, Racket, Ocaml
